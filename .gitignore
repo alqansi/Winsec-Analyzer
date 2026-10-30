@@ -1,0 +1,20 @@
+# Real Windows event logs
+*.evtx
+*.evt
+
+# Private data and reports
+private_data/
+reports/
+secoryt_report.txt
+
+# API keys and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Python temporary files
+pycache/
+*.pyc
+.venv/
