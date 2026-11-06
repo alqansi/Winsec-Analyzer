@@ -15,6 +15,6 @@ secoryt_report.txt
 *.key
 
 # Python temporary files
-pycache/
+__pycache__/
 *.pyc
 .venv/
